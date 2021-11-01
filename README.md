@@ -1,4 +1,4 @@
-# CalculadoraFuncao
+# CalculadoraTriangulo
 
 >## Calculadora de Triangulos
 
